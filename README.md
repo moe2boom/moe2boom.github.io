@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 ### 测试一下
-### 效果不错
-### 傻子lun酱看见了吗
+
 
 You can use the [editor on GitHub](https://github.com/moe2boom/moe2boom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
